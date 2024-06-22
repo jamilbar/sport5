@@ -1,7 +1,7 @@
 # JBS Website
 
 ## Overview
-The JBS website provides comprehensive coverage of various sports events, including live scores, news, and updates. It is a resource for fans to stay informed about their favorite teams and athletes, with a focus on timely and accurate reporting.
+The JBS website is an imitation of a real website called Sport5. It provides comprehensive coverage of various sports events, including live scores, news, and updates. It is a resource for fans to stay informed about their favorite teams and athletes, with a focus on timely and accurate reporting.
 
 ## Features
 - **Live Scores:** Up-to-the-minute scores for ongoing games.
