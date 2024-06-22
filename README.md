@@ -18,7 +18,7 @@ The JBS website is an imitation of a real website called Sport5. It provides com
 
 ## Usage
 1. **Access Live Scores:** Visit the "Live Scores" section for real-time updates.
-2. **Read News Articles:** Go to the "News" section for in-depth reports.
+2. **Read News Articles:** Click the title of each news to read the full articl.
 3. **Watch Highlights:** View video summaries in the "Highlights" section.
 4. **Check Stats:** Analyze player and team performance in the "Stats" section.
 
